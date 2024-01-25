@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "title":"Vintas Nauda EXT - High Top" ,
+        "color": "MONK'S ROBE",
+        "price":"720.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "image": "images/(1)Vintas Nauda EXT_High Top.png" 
+
+    },
+    {
+        "id": 2,
+        "title":"Pattas Tomo - High Top" ,
+        "color": "Offwhite",
+        "price":"750.000 VND" ,
+        "form": ["high_top", "low_top"],  
+        "image":"images/(2)Pattas Tomo_High Top.png" 
+
+    },
+    {
+        "id": 3,
+        "title":"Urbas Corluray Mix - High Top" ,
+        "color": "Corluray Mix",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],   
+        "image": "images/(3)Urbas Corluray Mix_High Top.png" 
+
+    },
+    {
+        "id": 4,
+        "title":"Vintas Jazico - High Top" ,
+        "color": "Royal White",
+        "price":"780.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "image": "images/(4)Vintas Jazico_High Top.png" 
+
+    },
+    {
+        "id": 5,
+        "title":"Vintas Soda Pop - High Top" ,
+        "color": "Red Violet",
+        "price":"720.000 VND" ,
+        "form": ["high_top", "low_top"],  
+        "image": "images/(5)Vintas Soda Pop_High Top.png" 
+
+    },
+    {
+        "id": 6,
+        "title":"Urbas SC - High Top" ,
+        "color": "Fair Orchid",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "image": "images/(6)Urbas SC_High Top.png" 
+
+    },
+    {
+        "id": 7,
+        "title":"Urbas SC - High Top" ,
+        "color": "Foliage",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(7)Urbas SC_High Top.png" 
+
+    },
+    {
+        "id": 8,
+        "title":"Urbas SC - High Top" ,
+        "color": "Dusty Blue",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(8)Urbas SC_High Top.png" 
+
+    },
+    {
+        "id": 9,
+        "title":"Urbas SC - High Top" ,
+        "color": "Cornsilk",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(9)Urbas SC_High Top.png" 
+
+    },
+    {
+        "id": 10,
+        "title":"Urbas SC - High Top" ,
+        "color": "Aloe Wash",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(10)Urbas SC_High Top.png" 
+
+    },
+    {
+        "id": 11,
+        "title":"Pattas Living Journey - High Top" ,
+        "color": "Vaporous Gray",
+        "price":"750.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(11)Pattas Living Journey_High Top.png" 
+
+    },
+    {
+        "id": 12,
+        "title":"Urbas Unsettling - High Top" ,
+        "color": "Insignia/Sulphur",
+        "price":"550.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(12)Urbas Unsettling_High Top.png" 
+
+    },
+    {
+        "id": 13,
+        "title":"Vintas Mister NE - High Top" ,
+        "color": "Chocolate Brown",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(13)Vintas Mister NE_High Top.png" 
+
+    },
+    {
+        "id": 14,
+        "title":"Basas Bumper Gum - High Top" ,
+        "color": "Rustic",
+        "price":"650.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(14)Basas Bumper Gum EXT NE_High Top.png" 
+
+    },
+    {
+        "id": 15,
+        "title":"Vintas Flannel - High Top" ,
+        "color": "Cement",
+        "price":"720.000 VND" ,
+        "form": ["high_top", "low_top"],
+        "description": "lorem.....",
+        "image": "images/(15)Vintas Flannel_High Top.png" 
+
+    }
+
+
+]
